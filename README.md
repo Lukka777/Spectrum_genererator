@@ -22,7 +22,7 @@ pip install numpy matplotlib scipy pandas argparse
 
 Особливості роботи програм :
   
-Програми 1-2 (task1.py/task2.py)
+Програми spectrum_simulator.py i apectrum_analisator.py
 
 Звязок між програмами 1 і 2:
 Програми 1 і 2 повязані через файл output.csv, який генерується програмою 1 і використовується програмою 2 для аналізу спектру.
