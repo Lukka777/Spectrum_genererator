@@ -5,9 +5,9 @@ tkinter — для графічного інтерфейсу
 matplotlib — для побудови графіків
 numpy — для роботи з масивами даних
 scipy — для обробки сигналів
-pandas (тільки для task3.py) — для роботи з таблицями (CSV)
-argparse (тільки для task2.py) — для роботи з аргументами командного рядка
-json (тільки для task1.py) — для роботи з JSON-файлам
+pandas  — для роботи з таблицями (CSV)
+argparse  — для роботи з аргументами командного рядка
+json (тільки для spectrum_simulator.py) — для роботи з JSON-файлам
 
 Встановити ці біліотеки можна такою командою:
 pip install numpy matplotlib scipy pandas argparse
@@ -22,7 +22,7 @@ pip install numpy matplotlib scipy pandas argparse
 
 Особливості роботи програм :
   
-Програми spectrum_simulator.py i apectrum_analisator.py
+Програми spectrum_simulator.py i apectrum_analisator.py (1 i 2)
 
 Звязок між програмами 1 і 2:
 Програми 1 і 2 повязані через файл output.csv, який генерується програмою 1 і використовується програмою 2 для аналізу спектру.
